@@ -1,6 +1,6 @@
 ![MSUS Solution Accelerator](./images/MSUS%20Solution%20Accelerator%20Banner%20Two_981.png)
 
-# -Manufacturing-Vision-Accelerator-ARM64v8
+# Manufacturing Vision Acceleratoer ARM64v8
 Welcome to the Manufacuring Vision Accelerator repo for ARM64v8 Nvidia devices, i.e. Jetson Nano, Jetson NX, Jetson Xavier. We hope what you find here may be helpful to your pursuit of vision analytics on the Edge! The ARM64v8 version of the Accelerator was created by myself and Rick Durham (Azure AI/ML), using the baseline code developed in conjunction with Nick Kwiecien, Ph.D. 
 
 This is a sample repository of working code - nothing more, nothing less.  There are no warranties or guarantees stated, or otherwise implied.
