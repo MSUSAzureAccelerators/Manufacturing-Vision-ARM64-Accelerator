@@ -80,7 +80,7 @@ This project was built out of necessity - the need to provide for that 'last mil
 
 3. Plan for model retraining:
 
- What many of the out-of-the-box solutions fail to plan for is the eventual need for model retraining. A vision solution has to have the ability to augment its datasets, as model drift or 'data' drift happens - it's not a question of if, but a question of when. On the "model" side, perhaps there is a bias in your classes that gets revealed during production inferencing which requires a rebalancing of the class representation. On the 'data' side, it could be that a camera gets knocked out of aligment, the lighting in a plant changes or seasonal changes shift the available natural light, etc.
+ What many of the out-of-the-box solutions fail to plan for is the eventual need for model retraining. A vision solution has to have the ability to augment its datasets, as model drift or 'data' drift happens - it's not a question of if, but a question of when. On the model side, perhaps there is a bias in your classes that gets revealed during production inferencing which requires a rebalancing of the class representation. On the 'data' side, it could be that a camera gets knocked out of aligment, the lighting in a plant changes or seasonal changes shift the available natural light, etc.
 
 4. Always think about the Enterprise perspective: 
 
